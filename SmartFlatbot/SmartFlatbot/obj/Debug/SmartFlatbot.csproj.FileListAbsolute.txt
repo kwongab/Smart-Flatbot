@@ -1,0 +1,8 @@
+C:\Users\kwong\GitHub\Husky Robotics\2017-18\Rover\SmartFlatbot\SmartFlatbot\obj\Debug\SmartFlatbot.csprojResolveAssemblyReference.cache
+C:\Users\kwong\GitHub\Husky Robotics\2017-18\Rover\SmartFlatbot\SmartFlatbot\bin\Debug\SmartFlatbot.exe.config
+C:\Users\kwong\GitHub\Husky Robotics\2017-18\Rover\SmartFlatbot\SmartFlatbot\bin\Debug\SmartFlatbot.exe
+C:\Users\kwong\GitHub\Husky Robotics\2017-18\Rover\SmartFlatbot\SmartFlatbot\bin\Debug\SmartFlatbot.pdb
+C:\Users\kwong\GitHub\Husky Robotics\2017-18\Rover\SmartFlatbot\SmartFlatbot\bin\Debug\BBBCSIO.dll
+C:\Users\kwong\GitHub\Husky Robotics\2017-18\Rover\SmartFlatbot\SmartFlatbot\bin\Debug\Scarlet.dll
+C:\Users\kwong\GitHub\Husky Robotics\2017-18\Rover\SmartFlatbot\SmartFlatbot\obj\Debug\SmartFlatbot.exe
+C:\Users\kwong\GitHub\Husky Robotics\2017-18\Rover\SmartFlatbot\SmartFlatbot\obj\Debug\SmartFlatbot.pdb

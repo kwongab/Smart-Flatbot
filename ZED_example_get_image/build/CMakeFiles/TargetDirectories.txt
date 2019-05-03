@@ -1,0 +1,3 @@
+/home/nvidia/Documents/ZED_example_get_image/build/CMakeFiles/edit_cache.dir
+/home/nvidia/Documents/ZED_example_get_image/build/CMakeFiles/rebuild_cache.dir
+/home/nvidia/Documents/ZED_example_get_image/build/CMakeFiles/ZED_Project.dir
